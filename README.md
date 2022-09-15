@@ -1,2 +1,1 @@
-# Game-Paper-Rock-Scissors--Improved
-https://miroslawchmielecki.github.io/Game-PaperRockScissors--Improved/
+Link to site:   https://miroslawchmielecki.github.io/Game-PaperRockScissors/
